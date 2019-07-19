@@ -12,6 +12,10 @@
     "autoload": {
         "psr-4": {
             "fmelchor\\laraken\\": "src"
-        }
+        },
+        "classmap": [
+            "Kendo"
+        ]
     }
+
 }
