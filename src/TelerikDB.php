@@ -3,10 +3,10 @@
 Clase que contiene la funcionalidad de telerik necesaria para crear los results necesarios para sus datasources.
 */
 
-namespace laraken;
+namespace fmelchor\laraken;
 
 
-use laraken\DataSourceResult;
+use fmelchor\laraken\DataSourceResult;
 
 class TelerikDB
 {

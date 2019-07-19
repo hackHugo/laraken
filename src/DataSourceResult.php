@@ -1,5 +1,5 @@
 <?php
-namespace laraken;
+namespace fmelchor\laraken;
 class DataSourceResult {
     protected $db;
 

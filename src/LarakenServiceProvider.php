@@ -6,7 +6,7 @@
  * Time: 04:54 PM
  */
 
-namespace laraken;
+namespace fmelchor\laraken;
 use  \Illuminate\Support\ServiceProvider;
 
 class LarakenServiceProvider extends ServiceProvider
