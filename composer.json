@@ -1,0 +1,14 @@
+{
+    "name": "fmelchor/laraken",
+    "description": "paquete para integrar lib kendo con laravel",
+    "authors": [
+        {
+            "name": "fmelchor",
+            "email": "fmelchor@intecfra.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "fmelchor\\laraken\\": "src"
+    }
+}
