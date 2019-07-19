@@ -9,6 +9,8 @@
     ],
     "require": {},
     "autoload": {
-        "fmelchor\\laraken\\": "src"
+        "psr-4": {
+            "fmelchor\\laraken\\": "src"
+        }
     }
 }
